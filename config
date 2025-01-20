@@ -1,0 +1,10 @@
+cursor-style = block_hollow
+window-padding-x = 16
+window-padding-y = 16
+macos-titlebar-style = hidden
+window-decoration = false
+shell-integration = zsh
+theme = tokyonight-day
+quit-after-last-window-closed = true
+window-colorspace = display-p3
+font-thicken = true
